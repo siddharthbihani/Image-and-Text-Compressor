@@ -1,6 +1,6 @@
 # Image and Text Compressor
 
-This is a C++ project, which I have created for my 4th Semester Project for the subject of Algorithm Analysis and Design. I have implemented the Burrow Wheels Compression and Decompression Algortihms to Compress and Decompress the images and text files.
+This is a C++ project, which I created for my 4th Semester Project for the subject of Algorithm Analysis and Design. I have implemented the Burrow Wheels Compression and Decompression Algortihms to Compress and Decompress the images and text files.
 
 ## Data Strucstures Used
 
